@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1608333046 source:c:\users\afer\desktop\c++ projects\pa2\main.cpp
+	<iostream>
+	<string>
+	"Graph.h"
+	"GlobalFunctions.h"
+	"Node.h"
+	"Tree.h"
+
+1608330909 c:\users\afer\desktop\c++ projects\pa2\graph.h
+	<assert.h>
+	<string>
+
+1608331723 c:\users\afer\desktop\c++ projects\pa2\globalfunctions.h
+	<fstream>
+	<string>
+	<sstream>
+	"Graph.h"
+	"Tree.h"
+
+1608330527 c:\users\afer\desktop\c++ projects\pa2\node.h
+	"GlobalFunctions.h"
+
+1608334121 c:\users\afer\desktop\c++ projects\pa2\tree.h
+	"Node.h"
+
